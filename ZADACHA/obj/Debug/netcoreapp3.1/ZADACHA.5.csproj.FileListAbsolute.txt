@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\bin\Debug\netcoreapp3.1\ZADACHA.5.exe
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\bin\Debug\netcoreapp3.1\ZADACHA.5.deps.json
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\bin\Debug\netcoreapp3.1\ZADACHA.5.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\bin\Debug\netcoreapp3.1\ZADACHA.5.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\bin\Debug\netcoreapp3.1\ZADACHA.5.dll
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\bin\Debug\netcoreapp3.1\ZADACHA.5.pdb
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\obj\Debug\netcoreapp3.1\ZADACHA.5.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\obj\Debug\netcoreapp3.1\ZADACHA.5.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\obj\Debug\netcoreapp3.1\ZADACHA.5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\obj\Debug\netcoreapp3.1\ZADACHA.5.dll
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\obj\Debug\netcoreapp3.1\ZADACHA.5.pdb
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\obj\Debug\netcoreapp3.1\ZADACHA.5.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp4\ZADACHA\obj\Debug\netcoreapp3.1\ZADACHA.5.csprojAssemblyReference.cache
