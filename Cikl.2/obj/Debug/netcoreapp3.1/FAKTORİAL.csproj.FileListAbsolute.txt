@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\bin\Debug\netcoreapp3.1\FAKTORİAL.exe
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\bin\Debug\netcoreapp3.1\FAKTORİAL.deps.json
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\bin\Debug\netcoreapp3.1\FAKTORİAL.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\bin\Debug\netcoreapp3.1\FAKTORİAL.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\bin\Debug\netcoreapp3.1\FAKTORİAL.dll
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\bin\Debug\netcoreapp3.1\FAKTORİAL.pdb
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\obj\Debug\netcoreapp3.1\FAKTORİAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\obj\Debug\netcoreapp3.1\FAKTORİAL.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\obj\Debug\netcoreapp3.1\FAKTORİAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\obj\Debug\netcoreapp3.1\FAKTORİAL.dll
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\obj\Debug\netcoreapp3.1\FAKTORİAL.pdb
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\obj\Debug\netcoreapp3.1\FAKTORİAL.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp4\Cikl.2\obj\Debug\netcoreapp3.1\FAKTORİAL.csprojAssemblyReference.cache
